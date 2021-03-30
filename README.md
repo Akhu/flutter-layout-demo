@@ -1,6 +1,8 @@
 # layout_tester
 
-A new Flutter application.
+Simple app to play with different layout Widgets
+
+![](layout.jpg)
 
 ## Getting Started
 
